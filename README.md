@@ -12,5 +12,5 @@ Next Two Files are simple example of Animation that you can apply on it.
 
 3.WALK.blend:   Walking Animation of the character
 
-Three point light system is also build on it material mode.
+Three point light system is also build on Deadpool in material mode.
 
